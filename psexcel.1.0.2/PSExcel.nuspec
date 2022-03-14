@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PSExcel</id>
+    <version>1.0.2</version>
+    <authors>Warren Frame</authors>
+    <owners>Warren Frame</owners>
+    <licenseUrl>https://github.com/RamblingCookieMonster/PSExcel/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RamblingCookieMonster/PSExcel/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Work with Excel without installing Excel</description>
+    <releaseNotes />
+    <copyright />
+    <tags>Excel PSExcel Workbook WorkSheet Spreadsheet PSModule</tags>
+  </metadata>
+</package>
